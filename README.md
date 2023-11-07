@@ -12,6 +12,7 @@
 [![Chinese](https://img.shields.io/badge/-Chinese-yellow)](translations/README.zh-cn.md)
 [![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
 [![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
+[![Korean](https://img.shields.io/badge/-Korean-white)](translations/README.ko.md)
 [![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
 
 # IoT for Beginners - A Curriculum
@@ -54,7 +55,7 @@ By ensuring that the content aligns with projects, the process is made more enga
 
 In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12 week cycle.
 
-Each project is be based around real-world hardware available to students and hobbyists. Each project looks into the specific project domain, providing relevant background knowledge. To be a successful developer it helps to understand the domain in which you are solving problems, providing this background knowledge allows students to think about their IoT solutions and learnings in the context of the kind of real-world problem that they might be asked to solve as an IoT developer. Students learn the 'why' of the solutions they are building, and get an appreciation of the end user.
+Each project is based around real-world hardware available to students and hobbyists. Each project looks into the specific project domain, providing relevant background knowledge. To be a successful developer it helps to understand the domain in which you are solving problems, providing this background knowledge allows students to think about their IoT solutions and learnings in the context of the kind of real-world problem that they might be asked to solve as an IoT developer. Students learn the 'why' of the solutions they are building, and get an appreciation of the end user.
 
 ## Hardware
 
@@ -131,10 +132,12 @@ Would you like to contribute a translation? Please read our [translation guideli
 
 Our team produces other curricula! Check out:
 
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners)
-- [ML for Beginners](https://aka.ms/ml-beginners)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners)
 - [AI for Beginners](https://aka.ms/ai-beginners)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [Generative AI for Beginners](https://aka.ms/genai-beginners)
+- [IoT for Beginners](https://aka.ms/iot-beginners)
+- [Machine Learning for Beginners](https://aka.ms/ml-beginners)
+- [XR Development for Beginners](https://aka.ms/xr-dev-for-beginners)
 
 ## Image attributions
 
